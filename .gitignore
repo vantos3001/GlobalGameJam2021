@@ -1,0 +1,8 @@
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+GlobalGameJam2021.sln
+Library/
+.idea/
+Temp/
+Logs/
+Builds/
